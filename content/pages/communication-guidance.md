@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes introductory materials about why communication
+  matters and how to communicate effectively
 learning_resource_types: []
 ocw_type: CourseSection
 title: Communication Guidance

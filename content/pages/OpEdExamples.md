@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Op-Ed examples provided by the instructors as well
+  as student examples.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Op-Ed Examples
